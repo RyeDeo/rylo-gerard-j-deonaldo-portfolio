@@ -140,9 +140,9 @@ FilPass Tamperproof Tech Inc.
 ## Education
 
 **Bachelor of Science in Computer Science**
-CIIT College of Arts and Technology — Quezon City
-Expected Graduation: 2026
-Consistent Dean's Lister
+- CIIT College of Arts and Technology — Quezon City
+- Expected Graduation: 2026
+- Consistent Dean's Lister
 
 ---
 
